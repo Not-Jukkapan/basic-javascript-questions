@@ -1,5 +1,6 @@
 // Count Number of Vowels in a String:
 // Input: "hello" → Output: 2
+// Hint: Use a loop to iterate through the string and count the vowels by checking if each character is in the set of vowels (a, e, i, o, u).
 
 function countVowels(str) {
     const vowels = ["a", "e", "i", "o", "u"];
